@@ -3,6 +3,8 @@
 ### Scenario : 
 We have 2 devices Phone(PhoneObserver) and TV(TVObservable) which need to be up-to-date with the current weather. They are dependent on this weather-app(WeatherObservable) for this.
 
+### Implementation
+
 In this example, we have 
 - Observable - WeatherObservable
 - Observer - PhoneObserver and TVObservable
